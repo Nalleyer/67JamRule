@@ -151,4 +151,4 @@
 
 为了方便交流，特拉微信群一个
 
-![扫描加入](./67JamWXG.png "欢迎加入")
+<img title="欢迎加入" src="./67JamWXG.png" width="480" height="480" />
